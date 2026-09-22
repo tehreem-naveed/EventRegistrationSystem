@@ -1,0 +1,4 @@
+# Runtime dependencies (asgiref and sqlparse are installed automatically by Django)
+Django==5.2.17
+djangorestframework==3.18.1
+python-dotenv==1.2.3
